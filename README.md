@@ -1,16 +1,14 @@
-### Hi there 👋
+### Bem vindo ao meu perfi. 🤠
 
-<!--
-**thonynho100/thonynho100** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Meu nome é Anthony Braian Oliveira de Souza.
 
-Here are some ideas to get you started:
+- Estou estudando na plataforma alura.
+- Estou me desenvolveno nas linguagens JavaScript, html e css
+- Utilizo este espaço paraminha organização e compartilhamento dos meus projetos
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### Voce poe entra em contato comigo 📫
+
+anthony.oliveira.souza@escola.pr.gov.br 
+
+
+![](https://media.tenor.com/ZhNS9wwvR2gAAAAd/bellingham-real-madrid.gif)
